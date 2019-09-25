@@ -1,0 +1,5 @@
+body {background: #ffffff; padding-top: 60px;}
+
+.profile-card:hover {
+    background-color: #ffc107 !important;
+}
